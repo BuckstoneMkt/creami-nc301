@@ -1,3 +1,4 @@
 User-agent: *
 Allow: /
-Sitemap: https://buckstonemkt.github.io/creami-nc301-page/sitemap.xml
+
+Sitemap: https://buckstonemkt.github.io/creami-nc301/sitemap.xml
